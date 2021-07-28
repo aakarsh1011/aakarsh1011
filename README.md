@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakarsh Yadav</h1>
 <h3 align="center">A passionate Data Science and Machine Learning practitioner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakarsh1011" alt="aakarsh1011" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/yadavaakarsh" target="blank"><img src="https://img.shields.io/twitter/follow/yadavaakarsh?logo=twitter&style=for-the-badge" alt="yadavaakarsh" /></a> </p>
 
