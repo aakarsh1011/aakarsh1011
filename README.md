@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aakarsh Yadav</h1>
-<h3 align="center">A passionate Data Science and Machine Learning practitioner</h3>
+<h3 align="center">An Engineer</h3>
 
 
 
 <p align="left"> <a href="https://twitter.com/yadavaakarsh" target="blank"><img src="https://img.shields.io/twitter/follow/yadavaakarsh?logo=twitter&style=for-the-badge" alt="yadavaakarsh" /></a> </p>
 
-- 🌱 I’m currently learning **Applied Machine learning**
-
-- 💬 Ask me about **Data Science, Data Analysis, Machine Learning or Electrical Engineering stuff**
+- 🌱 I’m currently learning about **Automation and Control**
 
 - 📫 How to reach me **yaakarsh101198@gmail.com**
 
